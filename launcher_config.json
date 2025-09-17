@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "tibia",
+	"clientFolder": "NightmareVetus",
 	"newClientUrl": "https://github.com/Vertuspriter/NightmareVetus-Laucher/releases/download/Client/Client.zip",
 	"clientExecutable": "client.exe"
 }
