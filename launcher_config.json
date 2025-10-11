@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.40.9",
+	"clientVersion": "13.40.10",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -7,7 +7,10 @@
 			"name": "assets"
 		},
 		{
-			"name": "storeimages"
+			"name": "sounds"
+		},
+		{
+			"name": "config"
 		},
 		{
 			"name": "bin"
